@@ -1,0 +1,67 @@
+#abc{
+    margin-left: 850px;
+    margin-top: -50px;
+}
+#def{
+    margin-left: 950px;
+    margin-top: -40px;
+}
+#ghi{
+    margin-left: 1100px;
+    margin-top: -38px;
+}
+#jkl{
+    margin-left: 1220px;
+    margin-top: -39px;
+}
+#head{
+    text-align: center;
+}
+#fn{
+    margin-left: 100px;
+}
+#ln{
+    margin-top: -20px;
+    margin-left: 350px;
+}
+#tb{
+    position: fixed;
+    margin-top: -30px;
+    margin-left: 600px;
+}
+#text{
+    width: 323px;
+    height: 191px;
+}
+#Arrival{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+#date{
+    margin-top: -22px;
+    margin-left: 350px;
+}
+#Rt{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+#Nr{
+    margin-top: -22px;
+    margin-left: 350px;
+}
+#adults{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+#childs{
+    margin-top: -22px;
+    margin-left: 350px;
+}
+#bt{
+    margin-top: 70px;
+    margin-left: 520px;
+    background-image: linear-gradient(orange,red);
+    border-radius: 15px;
+    color: white;
+    border: 0px white solid;
+}
